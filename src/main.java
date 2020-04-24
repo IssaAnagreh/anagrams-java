@@ -38,7 +38,7 @@ public class main {
 
             String t = result.anagrams(s1, s2);
 
-            // from user-1
+            // from user-2
 
             System.out.println("output original: " + t);
         }

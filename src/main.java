@@ -38,7 +38,7 @@ public class main {
 
             String t = result.anagrams(s1, s2);
 
-            // here must have a conflict from user-1
+            // from master
 
             System.out.println("output original: " + t);
         }
